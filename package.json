@@ -19,6 +19,7 @@
  },
  "homepage": "https://github.com/Paszak/zadanie_13_9#readme",
  "dependencies": {
-  "colors": "^1.1.2"
+  "colors": "^1.1.2",
+  "formidable": "^1.1.1"
  }
 }
